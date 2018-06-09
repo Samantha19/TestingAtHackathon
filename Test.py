@@ -6,3 +6,4 @@ class Test:
 t=  Test()
 t.test_method()
 print("Hi!")
+print("Change!")
